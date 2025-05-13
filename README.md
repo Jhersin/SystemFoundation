@@ -1,3 +1,5 @@
-title : Binary detectability in MR reconstruction
+Repository Title
+Binary Detectability in Undersampled MR Reconstruction
 
-This study evaluates the detectability of lesion in undersampled MR images using zero-filled reconstruction as a simplified model. The simulation elliptical lesions were embedded in gray matter and the binary detection performance was assessed using hotelling-based model observers. We examined how acceleration, noise, lesion size, and amplitude affect detectability and compared the results with traditional metrics such as SSIM and MSE. The findings reveal a low moderate correlation between standard metrics and task performance, highlighting the need for task-based evaluation in clinically relevant MR reconstruction.
+Repository Description
+This project investigates binary lesion detectability in undersampled MR images using zero-filled reconstructions. Simulated elliptical lesions were embedded in gray matter, and detection performance was evaluated with Hotelling-based model observers. We systematically explored the effects of acceleration, noise level, lesion size, and amplitude on detectability. Results were compared against conventional metrics like SSIM and MSE, revealing a low-to-moderate correlation and underscoring the importance of task-based assessment for clinically relevant MR reconstruction.
